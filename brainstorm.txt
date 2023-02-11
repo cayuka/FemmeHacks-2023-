@@ -1,4 +1,5 @@
 brainstorming:
 - chrome extensions:
     - webtoon translation
-    -hi
+    - map-related
+    - 
